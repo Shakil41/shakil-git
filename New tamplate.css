@@ -1,0 +1,64 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: gray white;
+}
+.header{
+	width: 100%;
+	height: 100px;
+	background-color: #1abc9c;
+	text-align: center;
+	border: 4px solid red;
+
+}
+.left{
+	width: 49%;
+	height: 120px;
+	float: left;
+	background-color: #2ecc71;
+	text-align: center;
+	border: 1px solid red;
+	margin-top: 10px;
+	margin-left: 4px;
+	
+}
+.right{
+	width: 49%;
+	height: 120px;
+	background-color: #2ecc71;
+	float: right;
+	border: 1px solid red;
+	text-align: center;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+.contact{
+	color: blue;
+	width: 100%;
+	height: 100px;
+	background: #f1c40f;
+	text-align: center;
+	margin-top: 140px;
+	border: 4px solid green;
+
+}
+.form{
+	width: 100%;
+	height: 300px;
+	background:#2ecc71;
+	text-align: center;
+	border: 5px solid red;
+	margin-top: 10px;
+	color: black;
+
+}
+.footer{
+	width: 100%;
+	height: 170px;
+	background: #bdc3c7;
+	text-align: center;
+	border: 3px solid blue;
+	color: black;
+
+
+}
